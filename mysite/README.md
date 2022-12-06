@@ -1,2 +1,0 @@
-# StreetFighterGameDjangoApi
-# StreetFighterGameDjangoApi
